@@ -1,0 +1,17 @@
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+#version {
+  position: absolute;
+  display: block;
+  font-size: 10px;
+  width: 100%;
+  bottom: 25px;
+  left: 90%;
+  text-align: left;
+  z-index: 100;
+  color: #646464;
+}
