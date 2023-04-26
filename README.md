@@ -10,8 +10,8 @@
 <img src="https://github.com/nguyenchloet/threejs/blob/master/CatOnWorldPreview.mov" height=250px>
 
 ## next steps
-moving the character along the sphere
-adding animation in blender
-adding other objects to the world
-changing camera angle based on character position
-world interaction
+- moving the character along the sphere
+- adding animation in blender
+- adding other objects to the world
+- changing camera angle based on character position
+- world interaction
